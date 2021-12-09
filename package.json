@@ -4,13 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "test.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^14.0.0",
-    "jest": "^27.4.3",
-    "jest-dev-server": "^6.0.2"
+    "jest-dev-server": "^5.0.3"
   }
 }
